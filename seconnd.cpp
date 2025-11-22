@@ -2,7 +2,6 @@
 using namespace std;
 int main()
 {
-    std::cout << "by"<<endl;
-    cout << "by";
+    cout << "by"<<endl;
     return 0;
 }
